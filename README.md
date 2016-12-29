@@ -1,1 +1,1 @@
-# HTML5-HUD
+# HTML5-Compass
